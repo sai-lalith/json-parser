@@ -1,0 +1,7 @@
+let json_comma = ','
+let json_colon = ':'
+let json_leftbracket = '['
+let json_rightbracket = ']'
+let json_leftbrace = '{'
+let json_rightbrace = '}'
+let json_quote = '"'
